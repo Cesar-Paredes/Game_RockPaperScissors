@@ -1,0 +1,11 @@
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\bin\Debug\LAB 4 rockPaperScissors Game.exe.config
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\bin\Debug\LAB 4 rockPaperScissors Game.exe
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\bin\Debug\LAB 4 rockPaperScissors Game.pdb
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\obj\Debug\LAB 4 rockPaperScissors Game.csproj.AssemblyReference.cache
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\obj\Debug\LAB 4 rockPaperScissors Game.csproj.SuggestedBindingRedirects.cache
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\obj\Debug\LAB_4_rockPaperScissors_Game.Form1.resources
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\obj\Debug\LAB_4_rockPaperScissors_Game.Properties.Resources.resources
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\obj\Debug\LAB 4 rockPaperScissors Game.csproj.GenerateResource.cache
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\obj\Debug\LAB 4 rockPaperScissors Game.csproj.CoreCompileInputs.cache
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\obj\Debug\LAB 4 rockPaperScissors Game.exe
+C:\Users\cesar\source\repos\LAB 4 rockPaperScissors Game\LAB 4 rockPaperScissors Game\obj\Debug\LAB 4 rockPaperScissors Game.pdb
