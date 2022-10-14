@@ -1,5 +1,5 @@
 # Game_RockPaperScissors
-Game of rock, paper Scissors agaisnt the machine. Created by me using C# with Windows Forms App(.NET framework)
+Game of rock, paper, scissors against the machine. Created by me using C# with Windows Forms App(.NET framework)
 
 
 ![image](https://user-images.githubusercontent.com/35407350/195674439-10417d6f-ebc2-4b07-9368-331c2769c7ef.png)
